@@ -176,6 +176,11 @@ If you see the any error while running the command:
 Please, make sure all steps are using **the same** python version and that you have **conda installed**. Additionally, *mlflow* and *wandb* packages are crucial and should have the same version.
 
 
+## Project Links
+
+- GitHub repository: https://github.com/zumizumi333/Project-Build-an-ML-Pipeline-Starter
+- W&B project: https://wandb.ai/zumizumi333-ml-udacity/nyc_airbnb
+
 ## License
 
 [License](LICENSE.txt)
