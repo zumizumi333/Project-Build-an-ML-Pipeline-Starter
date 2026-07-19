@@ -6,6 +6,11 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## Project Links
+
+- GitHub repository: https://github.com/zumizumi333/Project-Build-an-ML-Pipeline-Starter
+- W&B project: https://wandb.ai/zumizumi333-ml-udacity/nyc_airbnb
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
@@ -175,11 +180,6 @@ If you see the any error while running the command:
 
 Please, make sure all steps are using **the same** python version and that you have **conda installed**. Additionally, *mlflow* and *wandb* packages are crucial and should have the same version.
 
-
-## Project Links
-
-- GitHub repository: https://github.com/zumizumi333/Project-Build-an-ML-Pipeline-Starter
-- W&B project: https://wandb.ai/zumizumi333-ml-udacity/nyc_airbnb
 
 ## License
 
